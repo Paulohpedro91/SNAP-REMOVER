@@ -20,7 +20,7 @@ O **SNAP-REMOVER** é um utilitário interativo em Bash projetado para remover c
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/SNAP-REMOVER.git](https://github.com/seu-usuario/SNAP-REMOVER.git)
+    git clone [https://github.com/seu-usuario/SNAP-REMOVER.git]
     cd SNAP-REMOVER
     ```
 
